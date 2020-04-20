@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 update
 2 update to devjandaw
 awdaw
@@ -8,3 +9,8 @@ daw
 
 
 dev new new
+=======
+12893189237189
+
+-update even if new user commit on dev
+>>>>>>> 0372409a6afdbe161f61ef88940f94300c6ef166
